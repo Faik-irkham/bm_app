@@ -1,8 +1,8 @@
 # Budget Management App
 
 <p align="center">
-  <img src="assets/ui/sc1.png" alt="Splash" width="45%" />
-  <img src="assets/ui/sc2.png" alt="Home" width="45%" />
+  <img src="assets/sc1.png" alt="Splash" width="45%" />
+  <img src="assets/sc2.png" alt="Home" width="45%" />
 </p>
 
 Aplikasi **Budget Management** adalah aplikasi mobile yang dirancang untuk membantu pengguna dalam mengelola keuangan pribadi mereka. Dengan fitur yang intuitif dan antarmuka yang user-friendly, aplikasi ini memungkinkan pengguna untuk mencatat pendapatan dan pengeluaran, memberikan wawasan yang jelas tentang anggaran, dan membantu dalam pengambilan keputusan keuangan yang lebih baik.
