@@ -1,16 +1,32 @@
-# bm_app
+# Edu App Flutter UI
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/ui/sc1.png" alt="Home Page" width="45%" />
+  <img src="assets/ui/sc2.png" alt="Profile Page" width="45%" />
+</p>
 
-## Getting Started
+# Budget Management App
 
-This project is a starting point for a Flutter application.
+Aplikasi **Budget Management** adalah aplikasi mobile yang dirancang untuk membantu pengguna dalam mengelola keuangan pribadi mereka. Dengan fitur yang intuitif dan antarmuka yang user-friendly, aplikasi ini memungkinkan pengguna untuk mencatat pendapatan dan pengeluaran, memberikan wawasan yang jelas tentang anggaran, dan membantu dalam pengambilan keputusan keuangan yang lebih baik.
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Mencatat Pendapatan dan Pengeluaran**:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - Tambahkan dan edit catatan pendapatan dan pengeluaran dengan mudah.
+  - Kategori transaksi yang dapat disesuaikan (misalnya, makanan, transportasi, hiburan, dll).
+
+- **Ringkasan Anggaran**:
+
+  - Tampilkan total pendapatan, total pengeluaran, dan sisa anggaran yang tersedia.
+  - Grafis visual yang membantu pengguna memahami aliran keuangan mereka.
+
+- **Pengelolaan Transaksi**:
+  - Edit dan hapus transaksi yang telah dicatat.
+  - Tandai transaksi penting atau sebagai favorit untuk referensi mudah.
+
+## Teknologi yang Digunakan
+
+- **Flutter**: Framework open-source dari Google untuk membangun aplikasi mobile dengan satu basis kode untuk iOS dan Android.
+- **Provider**: Library untuk state management yang memudahkan pengelolaan dan pembagian data antara widget dalam aplikasi.
+- **Dart**: Bahasa pemrograman yang digunakan untuk mengembangkan aplikasi Flutter, memungkinkan pengembangan yang cepat dan efisien.
